@@ -1,0 +1,97 @@
+.navbar {
+    margin-bottom: 0;
+}
+
+.jumbotron {
+    padding-top: 100px;
+    margin-bottom: 0;
+    height: 700px;
+}
+
+.jumbotron h1,
+p {
+    color: #FFFFFF;
+}
+
+header {
+    width: 100%;
+    min-height: auto;
+    color: #fff;
+    background-image: url(../img/header.jpeg);
+    background-position: center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
+footer {
+    background-color: #614059;
+    padding-top: 50px;
+}
+
+footer h5 {
+    color: #FFFFFF;
+}
+
+address {
+    color: #FFFFFF;
+}
+
+.row-title h2 {
+    text-align: center;
+}
+
+hr {
+    max-width: 50px;
+    border-color: #f05f40;
+    border-width: 3px;
+}
+
+h1.panel-title {
+    font-size: xx-large
+}
+
+h2.panel-title {
+    font-size: x-large
+}
+
+h3.panel-title {
+    font-size: large
+}
+
+h4.panel-title {
+    font-size: medium;
+}
+
+h5.panel-title {
+    font-size: small
+}
+
+h6.panel-title {
+    font-size: x-small
+}
+
+.panel-heading h4 {
+    color: white;
+}
+
+.year {
+    float: right;
+    color: gray;
+}
+
+.nav-pills li {
+    padding: 10px 10px;
+}
+
+.panel > .nav-pills > .active > a,
+.panel > .nav-pills > .active > a:hover {
+    background-color: white;
+    color: black;
+    font-size: large;
+}
+
+.panel > h4 {
+    padding: 10px 15px;
+}
